@@ -1,0 +1,7 @@
+D:\Users\rasoares\source\repos\BackupDeploy\BackupDeploy\bin\Release\BackupDeploy.exe.config
+D:\Users\rasoares\source\repos\BackupDeploy\BackupDeploy\bin\Release\BackupDeploy.exe
+D:\Users\rasoares\source\repos\BackupDeploy\BackupDeploy\bin\Release\BackupDeploy.pdb
+D:\Users\rasoares\source\repos\BackupDeploy\BackupDeploy\obj\Release\BackupDeploy.csprojAssemblyReference.cache
+D:\Users\rasoares\source\repos\BackupDeploy\BackupDeploy\obj\Release\BackupDeploy.csproj.CoreCompileInputs.cache
+D:\Users\rasoares\source\repos\BackupDeploy\BackupDeploy\obj\Release\BackupDeploy.exe
+D:\Users\rasoares\source\repos\BackupDeploy\BackupDeploy\obj\Release\BackupDeploy.pdb
